@@ -68,7 +68,6 @@ nav a:hover{
     display: flex;
     flex-direction: column;
     min-height: 70px;
-
 justify-content:space-between;
 align-items: center;
 padding: 50px 0px;
@@ -129,7 +128,7 @@ align-items: center;
 
 .form-register{
 
-    width: 400px;
+    width: 200px;
     background-color: rgb(255, 191, 191);
 padding: 50px;
 margin: auto;
@@ -186,7 +185,7 @@ font-size: 18px;
 }
 
 .form-contacto{
-    width: 400px;
+    width: 200px;
     background-color: rgb(255, 191, 191);
 padding: 40px;
 margin: auto;
@@ -243,5 +242,8 @@ display: flex
     
 }
 
-
+#producto .form-compra{
+    padding: 50px 0px;
+    text-align: center;
+}
 
