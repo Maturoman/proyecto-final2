@@ -151,12 +151,12 @@ box-shadow: 7px 13px 37px #000;
     border-radius: 4px;
     margin-bottom: 16px;
     border: 1px solid black;
-font-size: 18px;
+font-size: 13px;
 }
 .form-register p{
     height: 40px;
     text-align: center;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 .form-register a{
@@ -224,26 +224,37 @@ box-shadow: 7px 13px 37px #000;}
 .form-compra{
 display: flex
 ;
-    margin: 25px;
+    margin: 10px;
+    width: 200px;
+    padding: 40px;
+
 
 }
 
 .texto{
-    padding: 0px 30px;
+    padding: 0px 5px;
 }
 
 .form-compra .talle{
     width: 100%;
     background-color: black ;
     border: none;
-    padding: 12px;
+    padding: 16px;
     color:  white;
     margin: 16px 0px;
     
 }
 
 #producto .form-compra{
-    padding: 50px 0px;
-    text-align: center;
+    padding: 70px 0px;
+    text-align: center
 }
 
+#producto .foto{
+    height: 30px;
+}
+
+.form-compra img{
+    height: 250px;
+
+}
